@@ -1,5 +1,5 @@
 exports.wait = () => {
-	return`*「 WAIT 」 SEDANG PROSES*`
+	return`*「 ESPERE 」 SEDANG PROSES*`
 }
 
 exports.succes = () => {
